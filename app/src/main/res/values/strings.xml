@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemeShare(2.0)</string>
+    <string name="share">Share</string>
+    <string name="load_more">Load</string>
+</resources>
